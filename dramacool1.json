@@ -5,7 +5,7 @@
     "appworker" : "false", 
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
-    "StreamType": "Anime",
+    "StreamType": "Drama",
     "streamURL":"https://jinplayerapp.github.io/kdrama-12-12-23.json",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
