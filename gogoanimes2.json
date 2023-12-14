@@ -31,7 +31,7 @@
     "max_open_id": "",
     "player_banner_enable" : "false",
     "player_inter_enable" : "true",
-    "player_native_enable" : "false",
+    "player_native_enable" : "true",
     "interstitial_step":"1",
     "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
