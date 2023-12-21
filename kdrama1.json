@@ -16,7 +16,7 @@
     "first_ad_net" : "aplv",
     "all_networks" : "false",
     "content_native_enable" : "false",
-    "fb_banner_enable" : "true",
+    "fb_banner_enable" : "false",
     "fb_inter_enable" : "true",
     "fb_native_enable" : "false",
     "fb_banner_id": "288082977565853_292164367157714",
