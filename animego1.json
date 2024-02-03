@@ -3,7 +3,7 @@
      "privacy_url" : "https://sites.google.com/view/nabkadprivavy/",
      "enable_permission" : "false",
      "enable_in_player_permission" : "true",
-    "appworker" : "false", 
+    "appworker" : "true", 
     "appworkerperiod" : "75",
     "appworkerperiodflex" : "10",
      "worker_fb_inter_enable" : "false", 
