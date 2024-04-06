@@ -1,7 +1,7 @@
 {
      "dev_email": "jawadouchanapp@outlook.com",
      "closeApp" : "false",
-     "privacy_url" : "",
+     "privacy_url" : "https://sites.google.com/view/jawoucapps/",
      "enable_permission" : "true",
      "enable_in_player_permission" : "true",
     "appworker" : "true", 
