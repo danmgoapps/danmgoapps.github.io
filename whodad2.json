@@ -23,7 +23,7 @@
     "first_ad_net" : "aplv",
     "all_networks" : "false",
      "interstitial_freq" : "3",
-    "g_content_native_enable" : "false",
+    "g_content_native_enable" : "true",
     "g_fb_banner_enable" : "false",
     "g_fb_inter_enable" : "false",
     "g_fb_native_enable" : "false",
